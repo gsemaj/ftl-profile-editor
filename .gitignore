@@ -20,3 +20,7 @@ Desktop.ini
 # IdeaJ
 *.idea
 *.iml
+
+# Application state
+ftl-editor-log.txt
+ftl-editor.cfg
